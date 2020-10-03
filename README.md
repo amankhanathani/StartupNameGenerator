@@ -9,4 +9,4 @@ This is an implementation of an mobile app  that generates proposed names for a 
 
 [This](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0) is the reference made for the project.
 
-[This](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0) tutorial helps to write a Flutter app that looks natural on iOS, Android, and the web.
+[This](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0) tutorial helped to write a Flutter app that looks natural on iOS, Android, and the web.
